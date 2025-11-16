@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.middle {
+    margin: auto;
+}
+
+.center td {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
